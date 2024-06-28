@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TelaCadastro</string>
+    <string name="textoBotao">Enviar Dados</string>
+</resources>

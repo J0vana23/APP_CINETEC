@@ -1,0 +1,44 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="afreira">A Freira</string>
+    <string name="aproposta">A Proposta</string>
+    <string name="aqueda">A Queda</string>
+    <string name="avatar">Avatar</string>
+    <string name="avengers">Avengers</string>
+    <string name="click">Click</string>
+    <string name="coraline">Coraline</string>
+    <string name="crepusculo">Crepúsculo</string>
+    <string name="divergente">Divergente</string>
+    <string name="encanto">Encanto</string>
+    <string name="grease">Grease</string>
+    <string name="harrypotter">Harry Potter</string>
+    <string name="ilhamedo">Ilha do Medo</string>
+    <string name="it">It. A Coisa</string>
+    <string name="karatekid">Karate Kid</string>
+    <string name="malevola">Malévola</string>
+    <string name="mammamia">Mamma Mia</string>
+    <string name="mazerunner">Mazer Runner</string>
+    <string name="meangirls">Mean Girls</string>
+    <string name="nerve">Nerver</string>
+    <string name="opoco">O Poço</string>
+    <string name="reileao">O Rei Leão</string>
+    <string name="topgan">Top Gun</string>
+    <string name="us">Us</string>
+
+</resources>
