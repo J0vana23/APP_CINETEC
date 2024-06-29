@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7d5b8c&size=35&center=true&vCenter=true&width=1000&lines=APP+CINETEC;Desenvolvido+em+kotlin!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CD0F0F&size=35&center=true&vCenter=true&width=1000&lines=APP+CINETEC;Desenvolvido+em+kotlin)](https://git.io/typing-svg)
 
 Aplicativo de cinema separado em duas páginas:
 
