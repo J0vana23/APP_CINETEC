@@ -5,7 +5,7 @@ Aplicativo de cinema separado em duas páginas:
 
 #
 
-<a href="Formulario_Receitas/app/src/main/java/com/example/formulario_receitas/MainActivity.kt" target="_blank"><img src="https://img.shields.io/badge/TELA DE CADASTRO: -0D1117?style=for-the-badge&logo=android-studio&logoColor=7d5b8c"></a>
+<a href="https://github.com/J0vana23/APP_CINETEC/tree/main/Grade" target="_blank"><img src="https://img.shields.io/badge/TELA DE CADASTRO: -0D1117?style=for-the-badge&logo=android-studio&logoColor=7d5b8c"></a>
 
 <img width="212" alt="image" src="https://github.com/J0vana23/APP_CINETEC/assets/125403554/c380c5c0-ead3-4624-8974-07d8c61c64f3">
   
