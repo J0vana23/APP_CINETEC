@@ -12,7 +12,7 @@ Aplicativo de cinema separado em duas páginas:
 #
 
 
-<a href="Receita/app/src/main/java/com/example/receita/MainActivity.kt" target="_blank"><img src="https://img.shields.io/badge/GRADE DOS FILMES: -0D1117?style=for-the-badge&logo=android-studio&logoColor=7d5b8c"></a>
+<a href="https://github.com/J0vana23/APP_CINETEC/tree/main/TelaCadastro" target="_blank"><img src="https://img.shields.io/badge/GRADE DOS FILMES: -0D1117?style=for-the-badge&logo=android-studio&logoColor=7d5b8c"></a>
 
 <img width="212" alt="image" src="https://github.com/J0vana23/APP_CINETEC/assets/125403554/7db4f01e-0810-422b-b588-63dcd0f7e03b">
 
